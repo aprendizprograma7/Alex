@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/bin/Debug/net10.0/ControleBanco
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/bin/Debug/net10.0/ControleBanco.deps.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/bin/Debug/net10.0/ControleBanco.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/bin/Debug/net10.0/ControleBanco.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/bin/Debug/net10.0/ControleBanco.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ControleBanco.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ControleBanco.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ControleBanco.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ControleBanco.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ControleBanco.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ControleBanco.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/refint/ControleBanco.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ControleBanco.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ControleBanco.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleBanco/obj/Debug/net10.0/ref/ControleBanco.dll

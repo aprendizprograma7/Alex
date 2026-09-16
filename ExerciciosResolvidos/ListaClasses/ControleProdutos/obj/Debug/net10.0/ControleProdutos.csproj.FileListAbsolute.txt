@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/bin/Debug/net10.0/ControleProdutos
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/bin/Debug/net10.0/ControleProdutos.deps.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/bin/Debug/net10.0/ControleProdutos.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/bin/Debug/net10.0/ControleProdutos.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/bin/Debug/net10.0/ControleProdutos.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ControleProdutos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ControleProdutos.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ControleProdutos.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ControleProdutos.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ControleProdutos.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ControleProdutos.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/refint/ControleProdutos.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ControleProdutos.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ControleProdutos.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/ControleProdutos/obj/Debug/net10.0/ref/ControleProdutos.dll

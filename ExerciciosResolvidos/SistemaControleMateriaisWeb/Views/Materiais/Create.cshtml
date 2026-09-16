@@ -1,0 +1,53 @@
+@model SistemaControleMateriaisWeb.Models.Material
+
+@{
+    ViewData["Title"] = "Cadastrar material";
+}
+
+<h1>Cadastrar material</h1>
+
+<form asp-action="Create" method="post">
+
+    <div asp-validation-summary="ModelOnly"
+         class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Nome" class="form-label"></label>
+        <input asp-for="Nome" class="form-control" />
+        <span asp-validation-for="Nome"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Categoria" class="form-label"></label>
+        <input asp-for="Categoria" class="form-control" />
+        <span asp-validation-for="Categoria"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Quantidade" class="form-label"></label>
+        <input asp-for="Quantidade" class="form-control" />
+        <span asp-validation-for="Quantidade"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="EstoqueMinimo" class="form-label"></label>
+        <input asp-for="EstoqueMinimo" class="form-control" />
+        <span asp-validation-for="EstoqueMinimo"
+              class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Salvar
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Cancelar
+    </a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/bin/Debug/net10.0/Idade
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/bin/Debug/net10.0/Idade.deps.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/bin/Debug/net10.0/Idade.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/bin/Debug/net10.0/Idade.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/bin/Debug/net10.0/Idade.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/Idade.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/Idade.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/Idade.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/Idade.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/Idade.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/Idade.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/refint/Idade.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/Idade.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/Idade.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/Idade/obj/Debug/net10.0/ref/Idade.dll

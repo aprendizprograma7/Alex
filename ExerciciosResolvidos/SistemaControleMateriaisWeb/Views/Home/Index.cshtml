@@ -1,0 +1,55 @@
+﻿@model SistemaControleMateriaisWeb.Models.DashboardViewModel
+
+@{
+    ViewData["Title"] = "Início";
+}
+
+<h1 class="mb-4">Sistema de Controle de Materiais</h1>
+
+<div class="row g-3">
+
+    <div class="col-md-3">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5>Materiais</h5>
+                <div class="display-6">@Model.TotalMateriais</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5>Unidades</h5>
+                <div class="display-6">@Model.TotalUnidades</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5>Estoque baixo</h5>
+                <div class="display-6">@Model.EstoqueBaixo</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5>Estoque zerado</h5>
+                <div class="display-6">@Model.EstoqueZerado</div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="mt-4">
+    <a asp-controller="Materiais"
+       asp-action="Index"
+       class="btn btn-primary">
+        Gerenciar materiais
+    </a>
+</div>

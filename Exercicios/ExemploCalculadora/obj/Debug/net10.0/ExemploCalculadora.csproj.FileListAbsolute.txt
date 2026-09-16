@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/bin/Debug/net10.0/ExemploCalculadora
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/bin/Debug/net10.0/ExemploCalculadora.deps.json
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/bin/Debug/net10.0/ExemploCalculadora.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/bin/Debug/net10.0/ExemploCalculadora.dll
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/bin/Debug/net10.0/ExemploCalculadora.pdb
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ExemploCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ExemploCalculadora.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ExemploCalculadora.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ExemploCalculadora.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ExemploCalculadora.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ExemploCalculadora.dll
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/refint/ExemploCalculadora.dll
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ExemploCalculadora.pdb
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ExemploCalculadora.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploCalculadora/obj/Debug/net10.0/ref/ExemploCalculadora.dll

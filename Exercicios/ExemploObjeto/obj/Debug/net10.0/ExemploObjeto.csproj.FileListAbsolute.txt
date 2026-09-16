@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/bin/Debug/net10.0/ExemploObjeto
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/bin/Debug/net10.0/ExemploObjeto.deps.json
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/bin/Debug/net10.0/ExemploObjeto.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/bin/Debug/net10.0/ExemploObjeto.dll
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/bin/Debug/net10.0/ExemploObjeto.pdb
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ExemploObjeto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ExemploObjeto.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ExemploObjeto.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ExemploObjeto.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ExemploObjeto.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ExemploObjeto.dll
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/refint/ExemploObjeto.dll
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ExemploObjeto.pdb
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ExemploObjeto.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/Exercicios/ExemploObjeto/obj/Debug/net10.0/ref/ExemploObjeto.dll

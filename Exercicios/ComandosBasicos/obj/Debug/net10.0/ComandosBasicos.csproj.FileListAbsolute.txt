@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/bin/Debug/net10.0/ComandosBasicos
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/bin/Debug/net10.0/ComandosBasicos.deps.json
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/bin/Debug/net10.0/ComandosBasicos.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/bin/Debug/net10.0/ComandosBasicos.dll
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/bin/Debug/net10.0/ComandosBasicos.pdb
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ComandosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ComandosBasicos.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ComandosBasicos.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ComandosBasicos.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ComandosBasicos.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ComandosBasicos.dll
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/refint/ComandosBasicos.dll
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ComandosBasicos.pdb
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ComandosBasicos.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/ComandosBasicos/obj/Debug/net10.0/ref/ComandosBasicos.dll

@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/bin/Debug/net10.0/SistemaClientes
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/bin/Debug/net10.0/SistemaClientes.deps.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/bin/Debug/net10.0/SistemaClientes.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/bin/Debug/net10.0/SistemaClientes.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/bin/Debug/net10.0/SistemaClientes.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/SistemaClientes.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/SistemaClientes.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/SistemaClientes.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/SistemaClientes.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/SistemaClientes.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/SistemaClientes.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/refint/SistemaClientes.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/SistemaClientes.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/SistemaClientes.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/ListaClasses/SistemaClientes/obj/Debug/net10.0/ref/SistemaClientes.dll

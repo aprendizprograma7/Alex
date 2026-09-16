@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/RespostaLista01.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/RespostaLista01.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/RespostaLista01.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/RespostaLista01.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/RespostaLista01.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/bin/Debug/net10.0/RespostaLista01
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/bin/Debug/net10.0/RespostaLista01.deps.json
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/bin/Debug/net10.0/RespostaLista01.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/bin/Debug/net10.0/RespostaLista01.dll
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/bin/Debug/net10.0/RespostaLista01.pdb
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/RespostaLista01.dll
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/refint/RespostaLista01.dll
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/RespostaLista01.pdb
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/RespostaLista01.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/RespostaLista01/obj/Debug/net10.0/ref/RespostaLista01.dll

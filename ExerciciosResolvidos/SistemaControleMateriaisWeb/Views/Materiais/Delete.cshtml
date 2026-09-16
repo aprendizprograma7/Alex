@@ -1,0 +1,35 @@
+@model SistemaControleMateriaisWeb.Models.Material
+
+@{
+    ViewData["Title"] = "Excluir material";
+}
+
+<h1>Excluir material</h1>
+
+<div class="alert alert-warning">
+    Confirme a exclusão do material abaixo.
+</div>
+
+<dl class="row">
+    <dt class="col-sm-3">Id</dt>
+    <dd class="col-sm-9">@Model.Id</dd>
+
+    <dt class="col-sm-3">Nome</dt>
+    <dd class="col-sm-9">@Model.Nome</dd>
+
+    <dt class="col-sm-3">Categoria</dt>
+    <dd class="col-sm-9">@Model.Categoria</dd>
+</dl>
+
+<form asp-action="Delete"
+      asp-route-id="@Model.Id"
+      method="post">
+
+    <button type="submit" class="btn btn-danger">
+        Confirmar exclusão
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Cancelar
+    </a>
+</form>

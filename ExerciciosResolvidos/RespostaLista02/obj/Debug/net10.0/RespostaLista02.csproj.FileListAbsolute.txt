@@ -1,0 +1,15 @@
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/RespostaLista02.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/RespostaLista02.AssemblyInfoInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/RespostaLista02.AssemblyInfo.cs
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/RespostaLista02.csproj.CoreCompileInputs.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/RespostaLista02.sourcelink.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/bin/Debug/net10.0/RespostaLista02
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/bin/Debug/net10.0/RespostaLista02.deps.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/bin/Debug/net10.0/RespostaLista02.runtimeconfig.json
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/bin/Debug/net10.0/RespostaLista02.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/bin/Debug/net10.0/RespostaLista02.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/RespostaLista02.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/refint/RespostaLista02.dll
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/RespostaLista02.pdb
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/RespostaLista02.genruntimeconfig.cache
+/workspaces/programador-sistema-senac-itaporanga/ExerciciosResolvidos/RespostaLista02/obj/Debug/net10.0/ref/RespostaLista02.dll
