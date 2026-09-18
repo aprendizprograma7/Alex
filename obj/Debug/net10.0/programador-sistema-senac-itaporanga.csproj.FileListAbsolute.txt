@@ -3,3 +3,8 @@
 /workspaces/programador-sistema-senac-itaporanga/obj/Debug/net10.0/programador-sistema-senac-itaporanga.AssemblyInfo.cs
 /workspaces/programador-sistema-senac-itaporanga/obj/Debug/net10.0/programador-sistema-senac-itaporanga.csproj.CoreCompileInputs.cache
 /workspaces/programador-sistema-senac-itaporanga/obj/Debug/net10.0/programador-sistema-senac-itaporanga.sourcelink.json
+/workspaces/Alex/obj/Debug/net10.0/programador-sistema-senac-itaporanga.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Alex/obj/Debug/net10.0/programador-sistema-senac-itaporanga.AssemblyInfoInputs.cache
+/workspaces/Alex/obj/Debug/net10.0/programador-sistema-senac-itaporanga.AssemblyInfo.cs
+/workspaces/Alex/obj/Debug/net10.0/programador-sistema-senac-itaporanga.csproj.CoreCompileInputs.cache
+/workspaces/Alex/obj/Debug/net10.0/programador-sistema-senac-itaporanga.sourcelink.json

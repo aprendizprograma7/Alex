@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/programador-sistema-senac-itaporanga/programador-sistema-senac-itaporanga.csproj": {}
+    "/workspaces/Alex/programador-sistema-senac-itaporanga.csproj": {}
   },
   "projects": {
-    "/workspaces/programador-sistema-senac-itaporanga/programador-sistema-senac-itaporanga.csproj": {
+    "/workspaces/Alex/programador-sistema-senac-itaporanga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/programador-sistema-senac-itaporanga.csproj",
+        "projectUniqueName": "/workspaces/Alex/programador-sistema-senac-itaporanga.csproj",
         "projectName": "programador-sistema-senac-itaporanga",
-        "projectPath": "/workspaces/programador-sistema-senac-itaporanga/programador-sistema-senac-itaporanga.csproj",
+        "projectPath": "/workspaces/Alex/programador-sistema-senac-itaporanga.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/programador-sistema-senac-itaporanga/obj/",
+        "outputPath": "/workspaces/Alex/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

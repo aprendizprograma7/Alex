@@ -1,0 +1,21 @@
+@model SistemaControleMateriais_flp.Models.Material
+
+@{
+    ViewData["Title"] = "Detalhes do material";
+}
+
+<h1>Detalhes do material</h1>
+
+<dl class="row">
+    <dt class="col-sm-3">Nome</dt>
+    <dd class="col-sm-9">@Model.Nome</dd>
+    <dt class="col-sm-3">Categoria</dt>
+    <dd class="col-sm-9">@Model.Categoria</dd>
+    <dt class="col-sm-3">Quantidade</dt>
+    <dd class="col-sm-9">@Model.Quantidade</dd>
+    <dt class="col-sm-3">Estoque mínimo</dt>
+    <dd class="col-sm-9">@Model.EstoqueMinimo</dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
+<a asp-action="Index" class="btn btn-secondary">Voltar</a>

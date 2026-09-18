@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programador-sistema-senac-itaporanga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bccf397f061fe62397c0aa8609bad78b4521dac7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+090fbdae3a16b19dd5809a29432ef89464ee8b0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("programador-sistema-senac-itaporanga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programador-sistema-senac-itaporanga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
